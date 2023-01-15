@@ -30,6 +30,13 @@ https://www.oracle.com/mysql/what-is-mysql/
 Run in NodeJs, helps create applications with database. Used in languages as JavaScript and TypeScript.</br>
 https://typeorm.io/
 
+##How use it:
+On Terminal type:
+```bash
+$ npm install
+```
+Create one dabase with name userdb with username and password root
+
 ## Installation:
 Install nest
 ```bash
