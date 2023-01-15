@@ -51,3 +51,12 @@ Install class validator and class transformer (validatior data)
 ```bash
 $ npm install class-validator class-transformer
 ```
+
+Install Jwt
+```
+npm install @nestjs/passport passport passport-local passport-jwt
+```
+Install Jwt
+```
+npm install @types/passport-local @types/passport-jwt
+```
